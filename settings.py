@@ -1,1 +1,1 @@
-token = 'Njk5MjY4MjExMjk1NzgwODY0.XpR6Vg.UW7UIEaCNyGS_rTd5d-o7m8e02c'
+token = ''
